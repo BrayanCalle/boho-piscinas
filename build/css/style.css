@@ -8465,26 +8465,26 @@ body.tt-pupup-open {
   z-index: 0; }
   @media (min-width: 1230px) {
     #map {
-      border-bottom-left-radius: 50% 13%;
-      border-bottom-right-radius: 50% 13%;
+      /* border-bottom-left-radius: 50% 13%;
+      border-bottom-right-radius: 50% 13%; */
       margin-top: -60px;
       height: 450px; } }
   @media (min-width: 1025px) and (max-width: 1229.98px) {
     #map {
-      border-bottom-left-radius: 50% 3%;
-      border-bottom-right-radius: 50% 3%;
+      /* border-bottom-left-radius: 50% 3%;
+      border-bottom-right-radius: 50% 3%; */
       margin-top: -60px;
       height: 450px; } }
   @media (max-width: 1024.98px) {
     #map {
-      border-bottom-left-radius: 50% 3%;
-      border-bottom-right-radius: 50% 3%;
+      /* border-bottom-left-radius: 50% 3%;
+      border-bottom-right-radius: 50% 3%; */
       margin-top: -8px;
       height: 245px; } }
   @media (max-width: 767.98px) {
     #map {
-      border-bottom-left-radius: 50% 1%;
-      border-bottom-right-radius: 50% 1%;
+      /* border-bottom-left-radius: 50% 1%;
+      border-bottom-right-radius: 50% 1%; */
       margin-top: 0px;
       height: 170px; } }
   #map iframe {
