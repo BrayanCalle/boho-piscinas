@@ -9830,3 +9830,9 @@ form {
 .tt-pupup-open .tt-back-to-top {
   opacity: 0;
   pointer-events: none; }
+
+  @media (min-width: 768px) {
+    .pre-header{
+      display: none;
+    }
+  }
