@@ -9836,3 +9836,16 @@ form {
       display: none;
     }
   }
+
+  .categoria-aparece{
+    display: none;
+  }
+  
+  .servicio-aparece{
+    display: none;
+  }
+  
+  .show{
+    display: block;
+  }
+
